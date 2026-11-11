@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spese Manu &amp; Leo</string>
+    <string name="screen_title">Spese</string>
+    <string name="new_expense">Nuova spesa</string>
+    <string name="edit_expense">Modifica spesa</string>
+    <string name="delete_expense">Elimina spesa</string>
+    <string name="delete_message">Eliminare “%1$s”?</string>
+    <string name="save">Salva</string>
+    <string name="cancel">Annulla</string>
+    <string name="delete">Elimina</string>
+    <string name="edit">Modifica</string>
+    <string name="empty_expenses">Nessuna spesa. Tocca “Nuova spesa” per iniziare.</string>
+    <string name="summary_title">Riepilogo</string>
+    <string name="summary_total">Totale spese: %1$s</string>
+    <string name="summary_manu">Manu — dovuto %1$s · pagato %2$s</string>
+    <string name="summary_leo">Leo — dovuto %1$s · pagato %2$s</string>
+    <string name="expense_meta">%1$s · %2$s</string>
+    <string name="due_values">Dovuto: Manu %1$s · Leo %2$s</string>
+    <string name="paid_values">Pagato: Manu %1$s · Leo %2$s</string>
+    <string name="split_label">Ripartizione</string>
+    <string name="split_50">50% Manu / 50% Leo</string>
+    <string name="split_40_60">60% Manu / 40% Leo</string>
+    <string name="date_label">Data (AAAA-MM-GG)</string>
+    <string name="description_label">Descrizione</string>
+    <string name="amount_label">Importo</string>
+    <string name="paid_manu_label">Importo pagato da Manu</string>
+    <string name="paid_leo_label">Importo pagato da Leo</string>
+    <string name="required_field">Campo obbligatorio</string>
+    <string name="invalid_amount">Inserisci un importo valido e non negativo</string>
+</resources>
